@@ -1,0 +1,6 @@
+{
+  "name": "ICON TECH - Electronics & Device Repair",
+  "description": "Premium electronics store and professional device repair hub in Ondo State, Nigeria. Shop smartphones, laptops, power banks, accessories, and book device repairs with instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
